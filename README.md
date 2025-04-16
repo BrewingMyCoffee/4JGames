@@ -1,4 +1,4 @@
-## To test the site for yourself go to [(https://blockmod.github.io/4JGames/)](https://blockmod.github.io/4JGames/)
+## To test the site for yourself go to [https://blockmod.github.io/4JGames/](https://blockmod.github.io/4JGames/)
  If you find any bugs or issues put them in our [discord server](https://discord.gg/xksWyP9aJv) or [open an issue](https://github.com/Blockmod/4JGames/issues) so we can get it fixed as soon as possable!
 
 
