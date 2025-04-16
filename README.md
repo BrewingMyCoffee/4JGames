@@ -4,7 +4,7 @@
 
 ## How to deploy this site for free
 **Deploy to github pages:**
-1. Go to https://github.com/OddPvP/unblockedgames/fork
+1. Go to https://github.com/Blockmod/4JGames/fork
 2. Click "Create Fork"
 3. Then go to the settings of the project you made (Button is at the top of the screen)
 4. Select the "Pages" option
