@@ -16,9 +16,9 @@
 
 **Other methods (They work but are not as easy):**
 
-[![Deploy on Github Pages](https://raw.githubusercontent.com/Animationking11/Animationking11/main/githubpages.png)](https://github.com/OddPvP/unblockedgames/wiki/Deploying-to-Github-Pages)
-[![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://github.com/OddPvP/unblockedgames/wiki/Deploying-to-Netlify)
-[![Deploy On Replit](https://shields.io/badge/Deploy%20on-replit-important?logo=replit&style=for-the-badge)](https://github.com/OddPvP/unblockedgames/wiki/Deploying-to-replit)
+[![Deploy on Github Pages](https://raw.githubusercontent.com/Animationking11/Animationking11/main/githubpages.png)](https://github.com/Blockmod/4JGames/wiki/Deploying-to-Github-Pages)
+[![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://github.com/Blockmod/4JGames/wiki/Deploying-to-Netlify)
+[![Deploy On Replit](https://shields.io/badge/Deploy%20on-replit-important?logo=replit&style=for-the-badge)](https://github.com/Blockmod/4JGames/wiki/Deploying-to-replit)
 
 ## Why pick us?
 - We offer an easy way to play games in school
