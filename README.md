@@ -27,4 +27,4 @@
 - Many updates to make the site better
 - Community Feedback, **If you have any more ideas please tell me on our discord server** https://discord.gg/xksWyP9aJv!
 
-[![Join us on Discord](https://invidget.switchblade.xyz/xksWyP9aJv?theme=dark)](https://discord.gg/xksWyP9aJv)
+[![Join us on Discord](https://invidget.switchblade.xyz/NrA8FeA6CH?theme=dark)]([362811](https://discord.gg/NrA8FeA6CH))
